@@ -1,0 +1,604 @@
+{
+  "sources": [
+    {
+      "id": 1,
+      "title": "Unifying turnaround-bounce cosmology in a cyclic universe considering a running vacuum model",
+      "authors": "Not specified",
+      "journal": "World Scientific",
+      "year": "2022",
+      "url": "https://www.worldscientific.com/doi/10.1142/S0217732322501279",
+      "doi": "10.1142/S0217732322501279",
+      "description": "Describes a running vacuum model (RVM-DE) that can describe cyclical cosmology where the universe undergoes cycles of expansion to contraction and vice versa. Directly relevant to the gyrating universe model's cyclical nature and phase transitions described in the theory.",
+      "relevance_score": "9",
+      "key_concepts": [
+        "cyclical cosmology",
+        "matter bounce",
+        "running vacuum",
+        "expansion-contraction cycles",
+        "phase transitions"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Alternative cosmologies",
+      "authors": "Not specified",
+      "journal": "IOP Science",
+      "year": "2025",
+      "url": "https://iopscience.iop.org/article/10.1088/1742-6596/2948/1/012001",
+      "doi": "10.1088/1742-6596/2948/1/012001",
+      "description": "Comprehensive review of alternative cosmological theories including cyclical models, which provides context for the theory's departure from standard cosmology. Discusses the sociological factors that limit research into alternative models.",
+      "relevance_score": "8",
+      "key_concepts": [
+        "alternative cosmologies",
+        "cyclical models",
+        "standard model alternatives",
+        "cosmological paradigms"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Constructive Resonance and the Emergent Universe: A New Systemic Interpretation of Einstein Field Equations for Cyclical Cosmology",
+      "authors": "Not specified",
+      "journal": "International Journal of Fundamental Physical Sciences",
+      "year": "2025",
+      "url": "https://www.fundamentaljournals.org/index.php/ijfps/article/view/144",
+      "doi": "Not specified",
+      "description": "Proposes a cyclical cosmology with alternating expansion and contraction phases. Introduces constructive resonance as energy transformation mechanism, highly relevant to the theory's phase transition and energy redistribution concepts.",
+      "relevance_score": "9",
+      "key_concepts": [
+        "cyclical cosmology",
+        "energy transformation",
+        "constructive resonance",
+        "expansion-contraction cycles",
+        "emergent time"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "JWST early Universe observations and ΛCDM cosmology",
+      "authors": "Not specified",
+      "journal": "Monthly Notices of the Royal Astronomical Society",
+      "year": "2023",
+      "url": "https://academic.oup.com/mnras/article/524/3/3385/7221343",
+      "doi": "Not specified",
+      "description": "Demonstrates JWST observations challenging standard ΛCDM cosmology, supporting the need for alternative models like the theory described. Shows tension between observations and standard cosmology.",
+      "relevance_score": "8",
+      "key_concepts": [
+        "JWST challenges",
+        "ΛCDM tension",
+        "alternative cosmology",
+        "early universe",
+        "massive galaxies"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Universal Properties of the Evolution of the Universe in Modified Loop Quantum Cosmology",
+      "authors": "Not specified",
+      "journal": "MDPI Universe",
+      "year": "2024",
+      "url": "https://www.mdpi.com/2218-1997/10/10/397",
+      "doi": "10.3390/universe10100397",
+      "description": "Describes loop quantum cosmology with quantum bounce replacing Big Bang singularity. Relevant to the theory's alternative interpretation of the Big Bang as a phase transition rather than singularity.",
+      "relevance_score": "8",
+      "key_concepts": [
+        "quantum bounce",
+        "loop quantum cosmology",
+        "Big Bang alternative",
+        "pre-bounce evolution",
+        "phase transitions"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "String Cosmology: from the Early Universe to Today",
+      "authors": "Not specified",
+      "journal": "Semantic Scholar",
+      "year": "2023",
+      "url": "https://www.semanticscholar.org/paper/7d54bbd8324436cd4f08a9d67a8ba9bb3f577785",
+      "doi": "Not specified",
+      "description": "Comprehensive review of string theory applications to cosmology including ekpyrotic/cyclic cosmologies and alternative scenarios. Provides theoretical foundation for cyclical universe models.",
+      "relevance_score": "7",
+      "key_concepts": [
+        "string cosmology",
+        "ekpyrotic cosmology",
+        "cyclic cosmologies",
+        "alternative scenarios",
+        "pre big-bang"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Big-bounce cosmology from quantum gravity: The case of a cyclical Bianchi I universe",
+      "authors": "Not specified",
+      "journal": "Physical Review D",
+      "year": "2016",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevD.94.023519",
+      "doi": "10.1103/PhysRevD.94.023519",
+      "description": "Analyzes quantum dynamics in cyclical universe models where Big Bang singularity is replaced by quantum bounce. Directly relevant to the theory's cyclical nature and phase transition interpretation.",
+      "relevance_score": "9",
+      "key_concepts": [
+        "big-bounce cosmology",
+        "quantum gravity",
+        "cyclical universe",
+        "singularity resolution",
+        "quantum bounce"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Magnetogenesis in cyclical Universe",
+      "authors": "Not specified",
+      "journal": "IOP Science",
+      "year": "2018",
+      "url": "https://iopscience.iop.org/article/10.1088/1361-6382/aae2d6",
+      "doi": "10.1088/1361-6382/aae2d6",
+      "description": "Proposes magnetogenesis solution based on cyclic cosmology with contracting phases. Relevant to the theory's contracting phase and energy redistribution mechanisms.",
+      "relevance_score": "7",
+      "key_concepts": [
+        "cyclical cosmology",
+        "magnetogenesis",
+        "contracting phase",
+        "cosmic cycles",
+        "energy redistribution"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "One spectrum to cure them all: signature from early Universe solves major anomalies and tensions in cosmology",
+      "authors": "Not specified",
+      "journal": "IOP Science",
+      "year": "2022",
+      "url": "https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/063",
+      "doi": "10.1088/1475-7516/2022/08/063",
+      "description": "Proposes early universe signatures that resolve cosmological tensions and anomalies. Relevant to the theory's alternative interpretation of early universe dynamics and CMB observations.",
+      "relevance_score": "7",
+      "key_concepts": [
+        "early universe",
+        "cosmological tensions",
+        "CMB anomalies",
+        "primordial spectrum",
+        "alternative cosmology"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Hot and heavy dark matter from a weak scale phase transition",
+      "authors": "Iason Baldes, Yann Gouttenoire, Filippo Sala",
+      "journal": "SciPost Physics",
+      "year": "2023",
+      "url": "https://scipost.org/SciPostPhys.14.3.033/pdf",
+      "doi": "10.21468/SciPostPhys.14.3.033",
+      "description": "Describes dark matter production through phase transitions with specific focus on phase transition mechanisms. Highly relevant to the theory's phase transition framework and dark matter reinterpretation.",
+      "relevance_score": "8",
+      "key_concepts": [
+        "dark matter",
+        "phase transitions",
+        "vacuum dominated",
+        "bubble walls",
+        "non-adiabatic production"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Gödel Universe - Visualization and Rotating Universe Models",
+      "authors": "Not specified",
+      "journal": "IOP Science",
+      "year": "2013",
+      "url": "https://iopscience.iop.org/article/10.1088/1367-2630/15/1/013063",
+      "doi": "10.1088/1367-2630/15/1/013063",
+      "description": "Describes Gödel's rotating universe model, which is directly relevant to the theory's gyrating universe concept and provides mathematical framework for rotating cosmological models.",
+      "relevance_score": "10",
+      "key_concepts": [
+        "rotating universe",
+        "Gödel universe",
+        "gyrating cosmology",
+        "time travel",
+        "homogeneous rotation"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Four Possible Ways to Model Rotating Universe",
+      "authors": "Not specified",
+      "journal": "SSRN",
+      "year": "2017",
+      "url": "https://www.ssrn.com/abstract=4694002",
+      "doi": "Not specified",
+      "description": "Discusses various approaches to modeling rotating universe including Bianchi models and Gödel metrics. Provides theoretical foundation for the theory's rotating/gyrating universe model.",
+      "relevance_score": "9",
+      "key_concepts": [
+        "rotating universe",
+        "Bianchi models",
+        "Gödel metrics",
+        "nonlinear cosmology",
+        "universe rotation"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "IS THE UNIVERSE ROTATING?",
+      "authors": "Not specified",
+      "journal": "Astrophysical Journal",
+      "year": "2009",
+      "url": "https://iopscience.iop.org/article/10.1088/0004-637X/703/1/354",
+      "doi": "10.1088/0004-637X/703/1/354",
+      "description": "Investigates universe rotation as perturbation of standard cosmology and constrains rotation speed. Relevant to the theory's gyrating universe concept and observational constraints.",
+      "relevance_score": "8",
+      "key_concepts": [
+        "universe rotation",
+        "rotating cosmology",
+        "observational constraints",
+        "CMB anisotropies",
+        "Bianchi models"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Gravitational effects on fluid dynamics in cosmological first-order phase transitions",
+      "authors": "Not specified",
+      "journal": "IOP Science",
+      "year": "2025",
+      "url": "https://iopscience.iop.org/article/10.1088/1475-7516/2025/02/057",
+      "doi": "10.1088/1475-7516/2025/02/057",
+      "description": "Studies fluid dynamics during cosmological phase transitions including bubble expansion and gravitational effects. Directly relevant to the theory's phase transition framework and fluid dynamics analogies.",
+      "relevance_score": "9",
+      "key_concepts": [
+        "cosmological phase transitions",
+        "fluid dynamics",
+        "bubble expansion",
+        "gravitational effects",
+        "first-order transitions"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Entropy and Gravitation—From Black Hole Computers to Dark Energy and Dark Matter",
+      "authors": "Y Jack Ng",
+      "journal": "MDPI Entropy",
+      "year": "2019",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7514339/",
+      "doi": "10.3390/e21111035",
+      "description": "Connects entropy, gravitation, and dark matter/energy through quantum gravity and holographic principles. Relevant to the theory's thermodynamic framework and dark matter reinterpretation.",
+      "relevance_score": "8",
+      "key_concepts": [
+        "entropy",
+        "gravitation",
+        "dark matter",
+        "dark energy",
+        "holographic principle",
+        "quantum gravity"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Holographic Principle in Quantum Gravity",
+      "authors": "Not specified",
+      "journal": "Various",
+      "year": "2024",
+      "url": "https://unisciencepub.com/wp-content/uploads/2024/11/Investigating-Fractal-Holographic-Principle-in-Quantum-Gravity-Using-the-McGinty-Equation.pdf",
+      "doi": "Not specified",
+      "description": "Explores holographic principle in quantum gravity with fractal patterns. Relevant to the theory's space redistribution and information encoding concepts.",
+      "relevance_score": "7",
+      "key_concepts": [
+        "holographic principle",
+        "quantum gravity",
+        "fractal patterns",
+        "information encoding",
+        "black holes"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Quantum foam and Spacetime Fluctuations",
+      "authors": "Not specified",
+      "journal": "Wikipedia/NASA",
+      "year": "2015",
+      "url": "https://www.nasa.gov/image-article/nasa-telescopes-set-limits-spacetime-quantum-foam/",
+      "doi": "Not specified",
+      "description": "Describes quantum foam as spacetime fluctuations at small scales. Relevant to the theory's space redistribution concept and quantum substrate framework.",
+      "relevance_score": "7",
+      "key_concepts": [
+        "quantum foam",
+        "spacetime fluctuations",
+        "quantum mechanics",
+        "space redistribution",
+        "substrate"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Testing CCC+TL Cosmology with Observed Baryon Acoustic Oscillation Features",
+      "authors": "Not specified",
+      "journal": "Astrophysical Journal",
+      "year": "2024",
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/ad1bc6",
+      "doi": "10.3847/1538-4357/ad1bc6",
+      "description": "Tests hybrid cosmological model combining tired light theory with covarying coupling constants. Relevant to the theory's alternative interpretation of light speed and fundamental constants.",
+      "relevance_score": "8",
+      "key_concepts": [
+        "tired light",
+        "covarying coupling",
+        "alternative cosmology",
+        "JWST observations",
+        "fundamental constants"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "General Relativistic Decoherence with Applications to Dark Matter Detection",
+      "authors": "Itamar J. Allali, Mark P. Hertzberg",
+      "journal": "Physical Review Letters",
+      "year": "2021",
+      "url": "https://link.aps.org/accepted/10.1103/PhysRevLett.127.031301",
+      "doi": "10.1103/PhysRevLett.127.031301",
+      "description": "Studies quantum decoherence in gravitational contexts with applications to dark matter superposition states. Relevant to the theory's quantum superposition explanation and dark matter framework.",
+      "relevance_score": "8",
+      "key_concepts": [
+        "quantum decoherence",
+        "dark matter",
+        "superposition states",
+        "gravitational effects",
+        "quantum coherence"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Ekpyrotic Universe Theory",
+      "authors": "Justin Khoury, Burt Ovrut, Paul Steinhardt, Neil Turok",
+      "journal": "Wikipedia/Focus Science",
+      "year": "2025",
+      "url": "https://pocketmags.com/ca/focus-science-and-technology-magazine/june-2025/articles/what-is-the-ekpyrotic-universe-theory",
+      "doi": "Not specified",
+      "description": "Describes ekpyrotic cosmology as alternative to standard Big Bang with cyclic bounces between branes. Relevant to the theory's cyclic nature and Big Bang reinterpretation.",
+      "relevance_score": "8",
+      "key_concepts": [
+        "ekpyrotic cosmology",
+        "cyclic universe",
+        "brane collision",
+        "Big Bang alternative",
+        "bounce scenarios"
+      ]
+    }
+  ]
+}
+
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/25960232/8fdcf568-cd80-486a-b711-7f069417bd67/Shriver-s-Complex-Substrate-Theory-A-Phase-Transitional-Model-of-Dark-Material.JSON
+[2] https://www.worldscientific.com/doi/10.1142/S0217732322501279
+[3] https://iopscience.iop.org/article/10.1088/1742-6596/2948/1/012001
+[4] https://www.semanticscholar.org/paper/06afcafaaa09dbb88ccc7e65d859d97eda1746f1
+[5] https://www.fundamentaljournals.org/index.php/ijfps/article/view/144
+[6] https://academic.oup.com/mnras/article/524/3/3385/7221343
+[7] https://www.mdpi.com/2218-1997/10/10/397
+[8] https://www.semanticscholar.org/paper/7d54bbd8324436cd4f08a9d67a8ba9bb3f577785
+[9] https://link.aps.org/doi/10.1103/PhysRevD.94.023519
+[10] https://iopscience.iop.org/article/10.1088/1361-6382/aae2d6
+[11] https://iopscience.iop.org/article/10.1088/1475-7516/2022/08/063
+[12] https://en.wikipedia.org/wiki/Conformal_cyclic_cosmology
+[13] https://www.universetoday.com/articles/oscillating-universe-theory
+[14] https://www.scipost.org/preprints/scipost_202208_00026v2/
+[15] https://en.wikipedia.org/wiki/Cyclic_model
+[16] https://www.youtube.com/watch?v=s9RqyFwLjIg
+[17] https://en.wikipedia.org/wiki/Cosmological_phase_transition
+[18] https://www.reddit.com/r/cosmology/comments/19f065e/one_hypothetical_theory_of_the_universe_is_the/
+[19] https://www.centauri-dreams.org/2007/02/02/an-oscillating-universe-after-all/
+[20] https://scipost.org/SciPostPhys.14.3.033/pdf
+[21] https://www.accessscience.com/content/article/a176017
+[22] https://asmedigitalcollection.asme.org/ICONE/proceedings/ICONE29/86434/V008T08A069/1151635
+[23] https://www.tandfonline.com/doi/full/10.1080/03091929.2025.2502905
+[24] https://asmedigitalcollection.asme.org/thermalscienceapplication/article/doi/10.1115/1.4047385/1084162/Forced-Convection-Computational-Fluid-Dynamics
+[25] https://www.nature.com/articles/s41598-020-80207-2
+[26] https://www.mdpi.com/2079-4991/12/18/3100
+[27] https://iopscience.iop.org/article/10.1088/1402-4896/ac2b4b
+[28] https://asmedigitalcollection.asme.org/FEDSM/proceedings/FEDSM2020/83730/Virtual,%20Online/1088085
+[29] https://iopscience.iop.org/article/10.1088/1475-7516/2025/02/057
+[30] https://www.cambridge.org/core/product/identifier/S0022112024009054/type/journal_article
+[31] https://www.cambridge.org/core/product/identifier/S002211202401231X/type/journal_article
+[32] https://ocw.mit.edu/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/mit12_006jf22_lec17-18.pdf
+[33] https://scholar.harvard.edu/files/schwartz/files/9-phases.pdf
+[34] https://arxiv.org/pdf/astro-ph/9812022.pdf
+[35] https://people.ast.cam.ac.uk/~vasily/Lectures/AFD_2021_Reynolds/AFDLecture14_22Feb2021.pdf
+[36] https://saalburg.aei.mpg.de/wp-content/uploads/sites/25/2018/10/PT_Heraeus18_slides_1.pdf
+[37] https://link.aps.org/doi/10.1103/PhysRevLett.123.191801
+[38] https://en.wikipedia.org/wiki/Convection
+[39] https://www.aimath.org/WWN/phasetransition/Defs16.pdf
+[40] https://particletheory.triumf.ca/dmorrissey/Teaching/PI-DM-2012/notes-2.pdf
+[41] https://adsabs.harvard.edu/pdf/1998A&A...340..419W
+[42] https://www.semanticscholar.org/paper/eeafee239bbaa6cd40d0935deca1d31479383a0f
+[43] https://www.ssrn.com/abstract=4694002
+[44] https://iopscience.iop.org/article/10.1088/1367-2630/15/1/013063
+[45] https://www.mdpi.com/2218-1997/7/1/12
+[46] https://www.semanticscholar.org/paper/0e2e7d45dccc4b91a3e37e8e5d73a0bf7e454079
+[47] https://www.mdpi.com/2218-1997/9/5/217
+[48] https://iopscience.iop.org/article/10.1088/0004-637X/703/1/354
+[49] http://link.springer.com/10.1007/BF02847825
+[50] https://onlinelibrary.wiley.com/doi/10.1002/bewi.200601226
+[51] https://www.mdpi.com/2218-1997/3/2/38
+[52] https://phys.org/news/2023-01-rotating-universe.html
+[53] https://pocketmags.com/ca/focus-science-and-technology-magazine/june-2025/articles/what-is-the-ekpyrotic-universe-theory
+[54] https://pmc.ncbi.nlm.nih.gov/articles/PMC7514339/
+[55] https://www.universetoday.com/articles/how-a-rotating-universe-makes-time-travel-possible
+[56] https://en.wikipedia.org/wiki/Ekpyrotic_universe
+[57] https://journals.aps.org/prd/abstract/10.1103/PhysRevD.88.083534
+[58] https://quantumgravityresearch.org/portfolio/the-rotating-godel-universe/
+[59] https://www.wikiwand.com/en/articles/Ekpyrotic_universe
+[60] https://ui.adsabs.harvard.edu/abs/2003CQGra..20.2753D
+[61] https://en.wikipedia.org/wiki/G%C3%B6del_metric
+[62] https://unisciencepub.com/wp-content/uploads/2024/11/Investigating-Fractal-Holographic-Principle-in-Quantum-Gravity-Using-the-McGinty-Equation.pdf
+[63] https://www.semanticscholar.org/paper/e39779568d6934935be176a0b172c8b39c9625e5
+[64] https://www.semanticscholar.org/paper/8d5349448eb3fd771d5b4e47c5ae4d3aa597effb
+[65] https://iopscience.iop.org/article/10.1209/0295-5075/113/30007
+[66] https://www.semanticscholar.org/paper/5c151ef08ba7c3b2731b873be7c23b69f1ba496d
+[67] https://jhap.du.ac.ir/article_396.html
+[68] https://www.semanticscholar.org/paper/fcad12e39338e916a855cf9236ac1f23b9b1b302
+[69] https://www.semanticscholar.org/paper/a14e83403924609cdde7cd31f86d6fed2998d1b2
+[70] https://www.semanticscholar.org/paper/3cd6b2293919e6a1014fcb77712b252f323b8a75
+[71] https://www.frontiersin.org/articles/10.3389/fspas.2021.563450/full
+[72] https://plus.maths.org/content/quantum-gravity-can-holographic-principle
+[73] https://en.wikipedia.org/wiki/Quantum_foam
+[74] https://www.wikiwand.com/en/articles/False_vacuum
+[75] https://en.wikipedia.org/wiki/Holographic_principle
+[76] https://www.nasa.gov/image-article/nasa-telescopes-set-limits-spacetime-quantum-foam/
+[77] https://phys.org/news/2024-01-phenomenon-false-vacuum-decay.html
+[78] https://www.youtube.com/watch?v=3n10ovuND0Q
+[79] https://journals.aps.org/prd/abstract/10.1103/PhysRevD.83.084003
+[80] https://physics.stackexchange.com/questions/522632/how-is-mass-energy-conserved-during-false-vacuum-decay
+[81] https://www.youtube.com/watch?v=1_ibTNDV8aU
+[82] https://www.semanticscholar.org/paper/7b0a7f1c82143a21d6b67db640b2def38b5b7805
+[83] https://www.semanticscholar.org/paper/257ae9524add665d45f9831586ed5beb5fa503c2
+[84] http://link.springer.com/10.1007/s10773-016-3058-z
+[85] https://www.semanticscholar.org/paper/47653940ca6880367294cddbc21104de865ea90b
+[86] https://www.semanticscholar.org/paper/4c7789c3bdce1712d38ab1c777251e688e1a6246
+[87] https://www.semanticscholar.org/paper/c70275982bb40262338f328b6c91d4e0ab544ea7
+[88] http://www.scirp.org/journal/doi.aspx?DOI=10.4236/jhepgc.2016.24045
+[89] https://iopscience.iop.org/article/10.3847/1538-4357/ad1bc6
+[90] http://link.springer.com/10.1007/s10773-015-2771-3
+[91] http://arxiv.org/pdf/0706.2885.pdf
+[92] https://en.wikipedia.org/wiki/Tired_light
+[93] https://astrobites.org/2024/02/17/cosmic-inconsistencies/
+[94] https://arxiv.org/pdf/astro-ph/0406139.pdf
+[95] https://www.science.org/content/article/tired-light-hypothesis-gets-re-tired
+[96] https://www.toolify.ai/ai-news/solving-jwsts-galaxy-problem-356583
+[97] https://link.aps.org/accepted/10.1103/PhysRevLett.127.031301
+[98] https://www.iflscience.com/what-is-tired-light-the-theory-that-denies-the-big-bang-75931
+[99] https://ui.adsabs.harvard.edu/abs/2023arXiv230100347W/abstract
+[100] https://news.fnal.gov/2022/12/detecting-dark-matter-with-quantum-computers/
+[101] https://physics.stackexchange.com/questions/156618/tired-light-red-shift-hypothesis
+[102] https://oxfordre.com/religion/view/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-157
+[103] https://www.semanticscholar.org/paper/3785be3857e4acb91afa341d66db82cf90c5cd82
+[104] http://www.scirp.org/journal/doi.aspx?DOI=10.4236/jhepgc.2016.24044
+[105] https://rajpub.com/index.php/jap/article/view/9355
+[106] https://link.aps.org/doi/10.1103/PhysRevD.105.044058
+[107] https://link.springer.com/10.1007/JHEP02(2024)112
+[108] https://academic.oup.com/edited-volume/34295/chapter/290746267
+[109] http://www.scirp.org/journal/doi.aspx?DOI=10.4236/jhepgc.2018.43030
+[110] https://link.aps.org/doi/10.1103/PhysRevD.107.026020
+[111] https://www.semanticscholar.org/paper/747924a6a0ec2b3e51ca730f03cae0a618c6c2d7
+[112] https://www.miragenews.com/bubble-universes-multiverse-theory-a-new-look-1024566/
+[113] https://arxiv.org/pdf/2008.10421.pdf
+[114] https://arxiv.org/abs/1305.2344
+[115] https://www.adlerplanetarium.org/blog/top-multiverse-theories-niyah-and-the-multiverse/
+[116] https://pubs.aip.org/physicstoday/article/69/8/56/1040823/Introduction-to-the-AdS-CFT-Correspondence
+[117] https://journals.aps.org/prd/abstract/10.1103/PhysRevD.87.104037
+[118] https://www.quantamagazine.org/physicists-study-how-our-universe-might-have-bubbled-up-in-the-multiverse-20210125/
+[119] https://www.youtube.com/watch?v=vzv3HLKASVA
+[120] https://en.wikipedia.org/wiki/Loop_quantum_cosmology
+[121] https://www.reddit.com/r/Physics/comments/1i68lph/whats_your_opinion_on_the_bubble_universe_theory/
+[122] https://arxiv.org/pdf/1904.08022.pdf
+[123] https://arxiv.org/pdf/2108.07101.pdf
+[124] http://arxiv.org/pdf/1106.0172.pdf
+[125] https://arxiv.org/pdf/2212.01149.pdf
+[126] https://arxiv.org/pdf/0806.1245.pdf
+[127] https://arxiv.org/pdf/1308.0932.pdf
+[128] http://arxiv.org/pdf/2110.15380.pdf
+[129] https://arxiv.org/abs/1902.03104
+[130] http://arxiv.org/pdf/1509.04074.pdf
+[131] http://arxiv.org/pdf/0801.2965.pdf
+[132] https://www.youtube.com/watch?v=YG9OcBsqjv8
+[133] https://www.anl.gov/event/dark-matter-and-cosmological-phase-transitions
+[134] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109666
+[135] https://www.youtube.com/watch?v=zMdq5CsVZ90
+[136] https://cds.cern.ch/record/2766348/files/2105.02840.pdf
+[137] https://consensus.app/questions/cyclic-theory-of-the-universe/
+[138] https://en.wikipedia.org/wiki/Oscillating_universe
+[139] https://link.aps.org/doi/10.1103/PhysRevLett.125.151102
+[140] https://consensus.app/questions/the-cyclic-universe-theory/
+[141] https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/oscillating-universe-theory
+[142] https://arxiv.org/html/2410.02702v1
+[143] http://link.aps.org/pdf/10.1103/PhysRevFluids.9.043501
+[144] https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GC008809
+[145] https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JE008471
+[146] https://arxiv.org/pdf/2311.04114.pdf
+[147] https://arxiv.org/pdf/2007.04265.pdf
+[148] https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2022JE007356
+[149] https://www.mdpi.com/2311-5521/7/11/339/pdf?version=1667198651
+[150] https://arxiv.org/pdf/1210.1561.pdf
+[151] https://arxiv.org/html/2411.16488v1
+[152] https://en.wikipedia.org/wiki/Phase_transition
+[153] https://pdg.lbl.gov/2001/darkmatrpp.pdf
+[154] https://ned.ipac.caltech.edu/level5/March02/Bertschinger/Bert2.html
+[155] https://chem.libretexts.org/Courses/New_York_University/CHEM-UA_652:_Thermodynamics_and_Kinetics/01:_Lectures/1.12:_Introduction_to_the_Thermodynamics_of_Phase_Transitions
+[156] https://ntrs.nasa.gov/citations/19900004848
+[157] https://www.eoas.ubc.ca/~cschoof/teaching/eos352/lecture_notes_352_convection.pdf
+[158] https://arxiv.org/abs/2403.12622
+[159] https://arxiv.org/abs/2103.01944
+[160] https://www.comsol.com/multiphysics/what-is-convection
+[161] https://onlinelibrary.wiley.com/doi/full/10.1002/prop.202400063
+[162] http://arxiv.org/pdf/0811.2910.pdf
+[163] http://arxiv.org/pdf/1703.05663.pdf
+[164] https://arxiv.org/pdf/2101.08592.pdf
+[165] https://www.mdpi.com/2218-1997/7/1/12/pdf
+[166] https://arxiv.org/pdf/2412.00594.pdf
+[167] http://arxiv.org/pdf/1303.4651.pdf
+[168] http://arxiv.org/pdf/2210.13251.pdf
+[169] https://arxiv.org/html/2503.13525v1
+[170] https://arxiv.org/abs/2002.11432
+[171] https://arxiv.org/pdf/1612.02069.pdf
+[172] https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Ekpyrotic_universe.html
+[173] https://arxiv.org/pdf/2208.10235.pdf
+[174] https://arxiv.org/pdf/gr-qc/0106070.pdf
+[175] https://www.sciencefocus.com/space/this-bold-theory-says-the-big-bang-wasnt-our-beginning
+[176] http://www.scholarpedia.org/article/Bekenstein-Hawking_entropy
+[177] https://en.wikipedia.org/wiki/Godel_metric
+[178] https://beuke.org/ekpyrotic/
+[179] https://www.youtube.com/watch?v=Ab8JIzckx_M
+[180] https://www.space.com/rotating-universe-would-permit-time-travel
+[181] https://www.numberanalytics.com/blog/ultimate-guide-ekpyrotic-cosmology
+[182] https://arxiv.org/ftp/arxiv/papers/2109/2109.10236.pdf
+[183] https://www.preprints.org/manuscript/202108.0148/v1/download
+[184] http://arxiv.org/pdf/1806.05643.pdf
+[185] http://arxiv.org/pdf/2201.02014.pdf
+[186] https://arxiv.org/pdf/0909.3223.pdf
+[187] https://arxiv.org/pdf/0905.1317.pdf
+[188] https://osf.io/5ed8c/download
+[189] https://arxiv.org/pdf/1501.04278.pdf
+[190] https://arxiv.org/pdf/2211.11345.pdf
+[191] http://diposit.ub.edu/dspace/bitstream/2445/12364/1/510700.pdf
+[192] https://phys.org/news/2006-02-foamy-spacetime.html
+[193] https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.103514
+[194] https://ui.adsabs.harvard.edu/abs/2001hep.th....7032D/abstract
+[195] https://www.numberanalytics.com/blog/unveiling-spacetime-foam-big-bang-theory
+[196] https://en.wikipedia.org/wiki/False_vacuum
+[197] https://escholarship.org/uc/item/9gs3j2xf
+[198] https://link.aps.org/accepted/10.1103/PhysRevD.83.084003
+[199] https://arxiv.org/pdf/2007.14124.pdf
+[200] https://arxiv.org/pdf/gr-qc/0503073.pdf
+[201] http://arxiv.org/pdf/0912.0535.pdf
+[202] https://arxiv.org/abs/2202.12897
+[203] http://www.scirp.org/journal/PaperDownload.aspx?paperID=70089
+[204] http://arxiv.org/pdf/2005.07931.pdf
+[205] http://www.scirp.org/journal/PaperDownload.aspx?paperID=109629
+[206] https://arxiv.org/pdf/1306.4407.pdf
+[207] http://www.scirp.org/journal/PaperDownload.aspx?paperID=74074
+[208] http://www.scirp.org/journal/PaperDownload.aspx?paperID=86524
+[209] http://arxiv.org/pdf/2309.05047.pdf
+[210] http://arxiv.org/pdf/1401.1107.pdf
+[211] https://arxiv.org/abs/2309.13100
+[212] https://research.ibm.com/publications/direct-detection-of-classically-undetectable-dark-matter-through-quantum-decoherence
+[213] https://newspaceeconomy.ca/2024/09/13/the-concept-of-tired-light-a-review-of-the-alternative-to-cosmic-expansion/
+[214] http://export.arxiv.org/abs/2212.06575
+[215] https://pubmed.ncbi.nlm.nih.gov/39332010/
+[216] https://www.numberanalytics.com/blog/tired-light-theory-explained
+[217] https://baas.aas.org/pub/2023n6i326p04/release/1
+[218] https://ui.adsabs.harvard.edu/abs/2004IAUS..220..497E
+[219] https://www.meteogiornale.it/eng/2024/09/magazine/what-if-the-big-bang-never-happened-the-alternative-theory-of-tired-light/
+[220] http://arxiv.org/pdf/1109.3473.pdf
+[221] http://arxiv.org/pdf/2106.05271.pdf
+[222] http://arxiv.org/pdf/1407.2950.pdf
+[223] http://arxiv.org/pdf/1312.1357.pdf
+[224] http://link.aps.org/pdf/10.1103/PhysRevD.104.086007
+[225] http://arxiv.org/pdf/2401.12368.pdf
+[226] http://arxiv.org/pdf/1902.05952.pdf
+[227] http://arxiv.org/pdf/1210.7181.pdf
+[228] http://diposit.ub.edu/dspace/bitstream/2445/12350/1/508002.pdf
+[229] https://arxiv.org/pdf/1702.02019.pdf
+[230] https://arxiv.org/abs/hep-th/9912139
+[231] https://link.aps.org/doi/10.1103/PhysRevD.87.104037
+[232] https://www.sciencedaily.com/releases/2011/08/110803102844.htm
+[233] https://link.aps.org/accepted/10.1103/PhysRevD.86.106007
+[234] https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.084029
+[235] https://www.youtube.com/watch?v=IgG766-0oRQ
+[236] https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.011056
+[237] https://arxiv.org/abs/2211.04440
+[238] https://phys.org/news/2014-07-universe.html
+[239] https://drum.lib.umd.edu/items/b5f2fae0-1356-41a6-95f8-48ae4378a77c
