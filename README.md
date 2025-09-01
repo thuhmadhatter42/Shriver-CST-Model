@@ -1,6 +1,6 @@
 # Shriver’s Complex Substrate Theory (CST) — v2.0
 
-**Tagline:** A phase-transitional model of “dark material,” proposing that dark matter/energy phenomenology emerges from substrate-level phase behavior in spacetime-media.
+**Tagline:** A phase-transitional model of cosmic evolution, where visible matter is excitation and the substrate is equilibrium.
 
 ## Repo Contents
 - `/paper/` — Manuscript source (LaTeX + figures) and compiled PDFs.
