@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "title": "Shriver’s Complex Substrate Theory (CST)",
+    "subtitle": "A Phase Transitional Model of Cosmic Substrate Dynamics",
+    "cst_version": "2.0.0",
+    "paper_version_ref": "CST v2.0",
+    "date_released": "2025-09-01",
+    "authors": [
+      {
+        "given_names": "J",
+        "family_names": "Shriver"
+      }
+    ],
+    "license": "Apache-2.0",
+    "intended_use": "Research articulation, simulation scaffolding, prediction tracking, and experimental design planning.",
+    "source_repository": "https://github.com/thuhmadhatter42/Shriver-CST-Model"
+  },
+  "ontology": {
+    "entities": {
+      "substrate": {
+        "description": "Universal equilibrium medium representing the stable, lowest-energy state of cosmic material.",
+        "properties": [
+          "Stable, homogeneous, non-luminous baseline state",
+          "Supports wave-like excitations that transport/redistribute energy",
+          "Acts as the sink and source in excitation cycles while conserving total energy"
+        ],
+        "symbols": {
+          "local_density": "ρ_s",
+          "temperature_like_term": "Θ_s",
+          "flow_velocity": "u^μ_s"
+        }
+      },
+      "excitation": {
+        "description": "Any temporary, higher-energy configuration within the substrate, including baryonic matter and radiation.",
+        "examples": [
+          "atoms",
+          "molecules",
+          "stars",
+          "galaxies",
+          "photons"
+        ],
+        "fate": "Ultimately decays and reintegrates into the substrate through energy redistribution."
+      },
+      "photon": {
+        "description": "Metastable, self-propagating oscillation of the substrate; massless by definition (no rest frame).",
+        "observables": [
+          "frequency ν",
+          "wavelength λ",
+          "intensity I"
+        ],
+        "end_state": "Dissolves into substrate via damping (redshift → ν ↓) without violating conservation."
+      },
+      "black_hole": {
+        "description": "Scale-shift region where local energy density exceeds current spatial accommodation capacity, transitioning physics to a new regime within the substrate.",
+        "temporal_behavior": "Local time slows relative to distant cosmic time as densities approach the black-hole limit; crossing the horizon still yields finite proper time before singular interior evolution.",
+        "interpretation": "Infinities indicate breakdown of model applicability, not physical reality."
+      }
+    },
+    "order_parameters": {
+      "phi": {
+        "range": [
+          0.0,
+          1.0
+        ],
+        "physical_meaning": "Local substrate phase fraction (0 ≈ pure equilibrium substrate; 1 ≈ fully excited/structured phase).",
+        "role": "Controls effective stress-energy correction and medium response."
+      },
+      "f": {
+        "range": [
+          0.0,
+          1.0
+        ],
+        "physical_meaning": "Global fraction of total energy bound in excitations.",
+        "relation_to_phi": "f is the volume- or energy-weighted average of local excitation across the cosmos."
+      }
+    },
+    "fields": {
+      "metric": "g_{μν}",
+      "substrate_flow": "u^μ_s",
+      "baryon_density": "ρ_b",
+      "photon_field": "A_μ (effective, phenomenological)"
+    }
+  },
+  "axioms": [
+    "A1: The universe possesses a stable equilibrium substrate state that minimizes free energy at large scales.",
+    "A2: Ordinary matter and radiation are temporary excitations of the substrate and ultimately decay back to equilibrium.",
+    "A3: Conservation of total energy holds globally; no exceptions are invoked for cosmological processes.",
+    "A4: Apparent infinities (e.g., singularities) signal a change of scale/regime (scale-shift), not literal divergence of physical quantities.",
+    "A5: Macroscopic gravitational phenomenology emerges from GR coupled to an effective stress-energy that includes substrate-phase contributions."
+  ],
+  "conservation_principles": {
+    "total_energy": {
+      "symbol": "E_T",
+      "statement": "E_T is conserved globally across substrate and excitations."
+    },
+    "partition": {
+      "substrate_energy": "(1 - f) E_T",
+      "excitation_energy": "f E_T",
+      "evolution": "df/dt ≤ 0 on long timescales due to decay and energy return to substrate, modulated by transient sourcing events."
+    }
+  },
+  "taxonomy": {
+    "states": [
+      "equilibrium_substrate",
+      "excited_configurations"
+    ],
+    "transitions": [
+      {
+        "from": "equilibrium_substrate",
+        "to": "excited_configurations",
+        "drivers": [
+          "disturbances",
+          "local instabilities",
+          "phase nucleation"
+        ]
+      },
+      {
+        "from": "excited_configurations",
+        "to": "equilibrium_substrate",
+        "drivers": [
+          "radiative damping",
+          "gravitational collapse",
+          "thermalization"
+        ]
+      }
+    ]
+  },
+  "photons": {
+    "nature": "Metastable substrate oscillations; massless because they are non-material wave modes without rest frame.",
+    "speed_of_light": "c represents the substrate’s maximum redistribution rate for excitation energy.",
+    "redshift_mechanism": {
+      "statement": "Frequency decreases via energy leakage (damping) into the substrate during propagation; this complements or can partially replace metric-expansion redshift.",
+      "phenomenology": [
+        "Environment-dependent redshift component correlated with substrate density ρ_s",
+        "Cumulative effect over long path lengths"
+      ]
+    },
+    "equations": {
+      "energy_frequency": "E = h ν",
+      "damping_model": "dν/dτ = -Γ(ρ_s, Θ_s, ...) · ν  (Γ ≥ 0)",
+      "intensity_decay": "dI/dx = -α(ρ_s) I  (Beer–Lambert–like phenomenology for energy leakage)"
+    },
+    "predictions": [
+      {
+        "id": "PH1",
+        "claim": "Residual, environment-dependent redshift beyond pure metric expansion scaling.",
+        "observable": "Δz_env correlated with line-of-sight ρ_s proxies."
+      },
+      {
+        "id": "PH2",
+        "claim": "Spectral softening with path through higher ρ_s regions without corresponding lensing signatures of additional mass."
+      }
+    ],
+    "falsification": [
+      "No statistically significant environment-correlated redshift residuals after controlling for selection and peculiar velocities across multiple independent surveys."
+    ]
+  },
+  "black_holes": {
+    "scale_shift_view": "Black holes are regions where classical spacetime description hands off to substrate-regime rules due to insufficient spatial accommodation at current scale.",
+    "temporal_dilation": "As local energy density approaches the black-hole limit, local time dilates relative to cosmic time; horizon crossing yields finite proper time to interior endpoints.",
+    "handoff_rules": [
+      "Replace divergent quantities with effective parameters determined by substrate state variables",
+      "Treat interior evolution as energy redistribution pathways preserving global conservation"
+    ],
+    "observables": [
+      "Waveform features at merger ringdown potentially deviating slightly from classical expectations if substrate coupling is nonzero",
+      "Accretion dynamics or jet properties influenced by scale-shift boundary conditions rather than true singularities"
+    ],
+    "falsification": [
+      "High-precision ringdown and shadow measurements strictly matching classical GR in all regimes where CST predicts order-ε deviations with ε bounded below by instrument sensitivity."
+    ]
+  },
+  "mathematical_framework": {
+    "energy_partition": {
+      "total": "E_T",
+      "substrate": "(1 - f) E_T",
+      "excitations": "f E_T",
+      "comment": "f is time-dependent; cosmic evolution trends toward f → 0 under damping."
+    },
+    "free_energy": {
+      "definition": "ℱ(φ) = a φ^2 + b φ^4 + κ |∇φ|^2 - J ρ_b φ",
+      "stability_conditions": [
+        "a < 0",
+        "b > 0",
+        "κ > 0"
+      ],
+      "coupling": "Linear baryon–substrate coupling via J ρ_b φ (minimal phenomenological choice)."
+    },
+    "euler_lagrange_for_phi": "2 a φ + 4 b φ^3 - J ρ_b - κ ∇^2 φ = 0",
+    "constitutive_relation": "ΔT_{μν} = α(φ) g_{μν} + β(φ) u_μ u_ν + γ(φ) ∇_μ φ ∇_ν φ",
+    "field_equations": "G_{μν} = 8πG (T^{baryon}_{μν} + T^{rad}_{μν} + ΔT_{μν})",
+    "toy_models": {
+      "spherical_halo": {
+        "assumptions": [
+          "static",
+          "spherical symmetry",
+          "weak-field limit for rotation curves"
+        ],
+        "boundary_conditions": [
+          "φ'(0) = 0",
+          "φ(∞) = φ_∞ (equilibrium)"
+        ],
+        "observables": [
+          "v_c(r) from effective potential",
+          "lensing convergence κ(r)"
+        ]
+      }
+    },
+    "parameters": {
+      "a": {
+        "units": "energy density",
+        "prior": "negative; magnitude sets depth of double-well"
+      },
+      "b": {
+        "units": "energy density",
+        "prior": "positive; controls nonlinearity/phase separation"
+      },
+      "κ": {
+        "units": "energy density·length^2",
+        "prior": "positive; interfacial stiffness"
+      },
+      "J": {
+        "units": "energy density per baryon-density unit",
+        "prior": "nonzero; sets baryon–substrate coupling"
+      },
+      "α(φ), β(φ), γ(φ)": {
+        "role": "phenomenological mapping from phase state to effective stress corrections"
+      }
+    }
+  },
+  "cyclic_evolution": {
+    "stages": [
+      "S1: Disturbance in equilibrium substrate nucleates excitations",
+      "S2: Excitations complexify into structures (stars, galaxies)",
+      "S3: Collapse and radiative release; radiation propagates and damps (redshifts) into substrate",
+      "S4: Return toward equilibrium until next cycle"
+    ],
+    "entropy_trend": "Net increase across cycles (directional arrow of time), with transient pockets of low entropy enabling structure.",
+    "global_fraction_evolution": {
+      "model": "df/dt = -k1 f - k2 f^2 + S(t)",
+      "interpretation": "Linear/quadratic decay terms for spontaneous and interaction-driven decay; S(t) for episodic sourcing (e.g., mergers, inflows).",
+      "parameters": {
+        "k1": {
+          "prior": "≥ 0",
+          "meaning": "spontaneous damping rate"
+        },
+        "k2": {
+          "prior": "≥ 0",
+          "meaning": "interaction-enhanced damping rate"
+        }
+      }
+    }
+  },
+  "predictive_distinctions": [
+    {
+      "id": "PD1",
+      "domain": "CMB",
+      "claim": "Temperature anisotropies contain convection/gyration signatures indicative of substrate flows, not purely metric expansion geometry.",
+      "test": "Higher-order multipole residuals correlated with large-scale flow templates."
+    },
+    {
+      "id": "PD2",
+      "domain": "Galaxy kinematics",
+      "claim": "Rotation–lensing discrepancies emerge from phase-structure rather than unseen particle halos.",
+      "test": "Fit curves using φ-mediated ΔT_{μν} and compare to NFW; expect systematic deviations near phase boundaries where ∇φ peaks."
+    },
+    {
+      "id": "PD3",
+      "domain": "Redshift",
+      "claim": "Redshift includes an environment-dependent damping component scaling with substrate density proxies.",
+      "test": "Hubble residual analysis vs. line-of-sight environment metrics."
+    },
+    {
+      "id": "PD4",
+      "domain": "Quantum",
+      "claim": "Entanglement coherence length co-varies with substrate state variables.",
+      "test": "Measure decoherence vs. local gravitational potential or other substrate proxies."
+    }
+  ],
+  "observational_tests": {
+    "programs": [
+      {
+        "id": "OBS_LSS",
+        "goal": "Search for convection-like flow patterns in the cosmic web.",
+        "metrics": [
+          "flow-mode power",
+          "vorticity proxies"
+        ],
+        "confounders": [
+          "bias, selection effects, redshift-space distortions"
+        ]
+      },
+      {
+        "id": "OBS_CMB",
+        "goal": "Detect substrate-flow (gyration) imprints in CMB anisotropies.",
+        "analysis": [
+          "multipole residuals",
+          "template cross-correlation"
+        ],
+        "systematics": [
+          "foregrounds",
+          "beam systematics"
+        ]
+      },
+      {
+        "id": "OBS_GX",
+        "goal": "Rotation and lensing fits using ΔT_{μν}(φ) models.",
+        "datasets": [
+          "spiral galaxy rotation curves",
+          "strong/weak lensing maps"
+        ],
+        "expected_signal": "Phase-boundary correlated residuals."
+      },
+      {
+        "id": "OBS_SN",
+        "goal": "Environment-correlated Hubble residuals indicating damping component.",
+        "controls": [
+          "host galaxy mass, metallicity, dust, peculiar velocities"
+        ]
+      }
+    ]
+  },
+  "laboratory_experiments": [
+    {
+      "id": "LAB_QSUP",
+      "setup": "Quantum superposition duration vs. local gravitational potential and environmental proxies.",
+      "measurement": "Decoherence time τ_dec(Φ, ρ_s proxy)",
+      "prediction": "τ_dec varies with substrate state; detectable at precision Δτ/τ ~ 10^-n (n experiment-dependent)."
+    },
+    {
+      "id": "LAB_NUC",
+      "setup": "Track detailed energy redistribution in fission/fusion to search for anomalous leakage patterns consistent with substrate coupling.",
+      "note": "Should respect ordinary conservation; any deviations must map to accounted channels or bound coupling coefficients."
+    },
+    {
+      "id": "LAB_EM",
+      "setup": "Measure light-speed stability and spectral evolution across gradient potentials.",
+      "prediction": "No superluminal effects; possible tiny substrate-correlated spectral adjustments."
+    },
+    {
+      "id": "LAB_ANALOG",
+      "setup": "Condensed-matter/fluid analogs with two-phase media to emulate φ dynamics.",
+      "goal": "Identify universal behavior and measurable scaling laws applicable to CST."
+    }
+  ],
+  "quantum_implications": {
+    "statement": "Quantum states reflect substrate-mediated coherence; entanglement length and stability depend on substrate variables.",
+    "testable_link": "Correlate decoherence rates with gravitational potential or other environment proxies as first-order substrate indicators."
+  },
+  "constraints_and_checks": {
+    "theoretical": [
+      "Recover GR in φ → 0 limit (ΔT_{μν} → 0).",
+      "Causality preserved: no superluminal signaling; c is a hard ceiling set by substrate redistribution rate.",
+      "Stability of φ dynamics (no runaway in physical regimes)."
+    ],
+    "astrophysical": [
+      "Solar-system precision tests: ensure ε-level corrections well below measurement limits.",
+      "BBN and early-universe constraints: φ and f must not disrupt observed light-element abundances within uncertainties."
+    ]
+  },
+  "parameters": {
+    "list": [
+      {
+        "symbol": "a",
+        "domain": "free-energy",
+        "role": "controls double-well depth",
+        "prior": "negative"
+      },
+      {
+        "symbol": "b",
+        "domain": "free-energy",
+        "role": "nonlinearity strength",
+        "prior": "positive"
+      },
+      {
+        "symbol": "κ",
+        "domain": "free-energy",
+        "role": "interfacial stiffness",
+        "prior": "positive"
+      },
+      {
+        "symbol": "J",
+        "domain": "coupling",
+        "role": "baryon–substrate coupling coefficient",
+        "prior": "≠ 0 (to be bounded)"
+      },
+      {
+        "symbol": "Γ",
+        "domain": "photon damping",
+        "role": "frequency damping rate",
+        "prior": "≥ 0, environment-dependent"
+      },
+      {
+        "symbol": "k1",
+        "domain": "global evolution",
+        "role": "spontaneous decay rate of f",
+        "prior": "≥ 0"
+      },
+      {
+        "symbol": "k2",
+        "domain": "global evolution",
+        "role": "interaction-augmented decay of f",
+        "prior": "≥ 0"
+      }
+    ],
+    "units": {
+      "a,b": "energy density",
+      "κ": "energy density·length^2",
+      "J": "energy density per baryon-density unit",
+      "Γ": "time^-1",
+      "k1,k2": "time^-1"
+    }
+  },
+  "glossary": {
+    "substrate": "Equilibrium medium underlying all phenomena; stable, non-luminous.",
+    "excitation": "Temporary, higher-energy configuration (matter, radiation).",
+    "phase transition": "Change in state characterized by order parameter φ.",
+    "scale-shift": "Change of effective physical rules/parameters due to exceeding accommodation capacity at a given scale (e.g., inside black holes).",
+    "redshift (damping)": "Loss of photon energy into substrate resulting in frequency decrease over propagation."
+  },
+  "mapping_to_paper": {
+    "1_introduction": [
+      "ontology.entities.substrate",
+      "ontology.entities.excitation",
+      "axioms"
+    ],
+    "2_inverted_taxonomy": [
+      "taxonomy.states",
+      "taxonomy.transitions"
+    ],
+    "3_photons": [
+      "photons.nature",
+      "photons.redshift_mechanism",
+      "photons.equations",
+      "predictive_distinctions.PD3"
+    ],
+    "4_black_holes": [
+      "black_holes.scale_shift_view",
+      "black_holes.temporal_dilation",
+      "constraints_and_checks.theoretical"
+    ],
+    "5_conservation": [
+      "conservation_principles",
+      "mathematical_framework.energy_partition"
+    ],
+    "6_math_framework": [
+      "mathematical_framework"
+    ],
+    "7_predictive_distinctions": [
+      "predictive_distinctions"
+    ],
+    "8_cyclic_evolution": [
+      "cyclic_evolution"
+    ],
+    "9_philosophy": [
+      "glossary",
+      "ontology"
+    ],
+    "10_experimental_tests": [
+      "observational_tests",
+      "laboratory_experiments"
+    ],
+    "11_future_research": [
+      "parameters",
+      "constraints_and_checks",
+      "quantum_implications"
+    ],
+    "12_conclusion": [
+      "axioms",
+      "predictive_distinctions",
+      "cyclic_evolution"
+    ]
+  },
+  "roadmap": {
+    "milestones": [
+      {
+        "id": "v2.1",
+        "goal": "Derive φ-based ΔT_{μν} forms consistent with solar-system bounds."
+      },
+      {
+        "id": "v2.2",
+        "goal": "Implement toy halo solver + lensing integrals; release notebooks."
+      },
+      {
+        "id": "v2.3",
+        "goal": "Environment-dependent redshift residual analysis plan and mock pipeline."
+      },
+      {
+        "id": "v3.0",
+        "goal": "ArXiv-ready manuscript with figures, parameter bounds, and public code."
+      }
+    ],
+    "open_issues": [
+      "O1: Specify α(φ), β(φ), γ(φ) minimal functional forms.",
+      "O2: Calibrate Γ(ρ_s, Θ_s, …) against empirical bounds on spectral distortions.",
+      "O3: Consistency with early-universe thermodynamics and CMB power spectrum."
+    ]
+  },
+  "provenance": {
+    "generated_by": "GPT-5 Thinking",
+    "timestamp_utc": "2025-09-01T06:50:04.495794Z",
+    "notes": "Expanded, deeply-structured JSON derived from CST paper v2.0; suitable for agents, simulation scaffolds, and prediction tracking."
+  }
+}
