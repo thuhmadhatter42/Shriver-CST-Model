@@ -1,4 +1,4 @@
-[# Shriver’s Complex Substrate Theory (CST) — v1.0
+# Shriver’s Complex Substrate Theory (CST) — v2.0
 
 **Tagline:** A phase-transitional model of “dark material,” proposing that dark matter/energy phenomenology emerges from substrate-level phase behavior in spacetime-media.
 
@@ -9,11 +9,12 @@
 - `/calculations/` — Derivations, numerics, and notebooks.
 - `/figures/` — Diagrams and plots (vector-first).
 
-Current draft assets:
-- `paper/draft/Shiver-CST-v1.0.md` (human-readable draft)
-- `models/cst-v1.0.json` (structured schema)
+**Current draft assets:**
+- `paper/draft/Shriver-CST-v2.0.md`
+- `models/cst-v2.0.json`
 - `calculations/cst_equilibrium_universe_calculation.md`
-- `notes/research-log.md`](https://github.com/thuhmadhatter42/Shriver-CST-Model/tree/main)
+- `notes/research-log.md`
+
 
 ## Claims (high-level, falsifiable hooks)
 1. **Phase-Transitional Substrate:** Observed galactic rotation curves and lensing profiles can be reparameterized by local substrate phase fractions rather than particle abundance.
